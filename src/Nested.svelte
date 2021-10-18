@@ -1,6 +1,4 @@
 <script lang="ts">
-	import Nested from "./Nested.svelte";
-
 	function toggleDark() {
 		window.document.body.classList.toggle("dark");
 	}
